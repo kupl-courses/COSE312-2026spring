@@ -1,4 +1,4 @@
-# COSE312 Compiler Project 2025, Korea University
+# COSE312 Compiler Project, Korea University
 
 The goal of this project is to implement a translator, a semantic analyzer, and an optimizer for the S language.
 The source language ("S") and target languages ("G" and "T") are defined in lecture slides.

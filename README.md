@@ -1,4 +1,4 @@
-# COSE312 - Compilers, 2025 Spring
+# COSE312 - Compilers, 2026 Spring
 
 ## 실습 환경 설정
 
@@ -20,13 +20,13 @@ https://code.visualstudio.com/
 ### 4. _Dev containers_ 실행
 1. Clone this repository
     ```console
-    ta@cose312:~$ git clone https://github.com/kupl-courses/COSE312-2025spring.git
+    ta@cose312:~$ git clone https://github.com/kupl-courses/COSE312.git
     ```
     (필요시 git 설치: https://git-scm.com/downloads)
 
 2. Open in VSC
     ```console
-    ta@cose312:~$ code COSE312-2025spring
+    ta@cose312:~$ code COSE312
     ```
 
 3. 우측 하단 메세지 내 좌측 버튼 _Reopen in Container_ 클릭
@@ -59,9 +59,9 @@ $ ocaml < src/main.ml
 ```
 
 ## 업데이트된 과제 템플릿 다운로드
-COSE312-2025spring 디렉토리에서 `git pull` 실행
+COSE312 디렉토리에서 `git pull` 실행
 ```console
 $ pwd
-/workspace/COSE312-2025spring
+/workspace/COSE312
 $ git pull
 ```
