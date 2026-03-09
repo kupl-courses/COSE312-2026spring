@@ -14,9 +14,9 @@ This package includes the following files:
 - [optimizer.ml]: an optimizer that translates a T program to an efficient T program
 
 Your job is to complete the implementation of the translator, the analyzer, and the optimizer:
-- HW4: Implement the translator from S to T and G in [translator.ml]
-- HW5: Implement the semantic analyzer in [analyzer.ml]
-- HW6: Implement an optimizer for T in [optimizer.ml]
+- HW3: Implement the translator from S to T and G in [translator.ml]
+- HW4: Implement the semantic analyzer in [analyzer.ml]
+- HW5: Implement an optimizer for T in [optimizer.ml]
 
 Regarding the optimizer, try to do your best effort. The score will be based on the
 correctness (i.e., semantics-preserveness) of the optimizer and the quality of the
