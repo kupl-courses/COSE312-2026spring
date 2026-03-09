@@ -2,10 +2,10 @@
 
 (using menhir 2.1)
 
-(name compilers2025-hw4)
+(name compilers2026-hw345)
 
 (package
-  (name compilers2025-hw4)
+  (name compilers2026-hw345)
   (depends
     (dune :build)
     (menhir :build)

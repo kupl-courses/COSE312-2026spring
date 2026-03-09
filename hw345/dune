@@ -1,6 +1,6 @@
 (executable
   (name main)
-  (public_name compilers2025-hw4)
+  (public_name compilers2026-hw345)
   (libraries
     unix
     core 
@@ -10,7 +10,7 @@
     mtime.clock.os
   )
   
-(package compilers2025-hw4))
+(package compilers2026-hw345))
 
  (menhir
   (modules parser))
