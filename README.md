@@ -39,7 +39,7 @@ https://code.visualstudio.com/
 ```console
 $ opam update
 $ opam upgrade --yes
-$ opam install batteries core --yes
+$ opam install batteries core logs mtime --yes
 $ opam install user-setup && opam user-setup install
 ```
 
